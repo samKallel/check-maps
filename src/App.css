@@ -1,0 +1,22 @@
+.App{
+  height: 80px;
+  text-align: center; 
+  background-color: rgba(39, 186, 46, 0.37);
+  padding: 0;
+  margin:auto;
+}
+body{
+  overflow: hidden;
+
+ }
+.cadre{
+
+    width: 100%;
+    height: 100%;
+    margin-top: 2px;
+    margin-left: 0;
+    padding: 0 !important;
+    position:absolute;
+   background-color:rgba(52, 153, 56, 0.178);
+
+}

@@ -6,7 +6,7 @@ import MapContainer from './map';//import du composant
 function App() {
   return (
     <div className="App">
- <h1>Google Map :</h1> 
+ <h1>Google Maps :</h1> 
 
     <MapContainer/> {/*le composant qui permet laffichage du google map*/}
       </div> 
